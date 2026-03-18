@@ -14,7 +14,7 @@
           <mxGeometry x="148.5" y="66.61999999999999" width="373" height="153.38" as="geometry" />
         </mxCell>
         <mxCell id="WIYlUnvcefY0VMRkA_qf-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Dreamer系列：构建世界模型，再根据世界模型生成的潜状态选定动作，预测奖励和价值&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="354.81" width="260" height="30" as="geometry" />
+          <mxGeometry x="160" y="360" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
